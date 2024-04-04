@@ -1,0 +1,20 @@
+# SH
+
+React Doc : https://react.dev/blog/2023/03/16/introducing-react-dev
+
+## Run the project : 
+
+For the first time or if new dependencies are added run :
+
+```bash
+cd sh
+npm install
+```
+
+Run the app with :
+
+```bash	
+cd sh
+npm run dev
+```
+(then click on the link provided in the terminal to open the app in the browser)
